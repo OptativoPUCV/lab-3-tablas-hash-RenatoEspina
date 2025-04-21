@@ -75,3 +75,14 @@ do., 20 de abr. de 2025 23:55:52:
  tests:  16|1
 total_score: 60/70
 bfc616c
+lu., 21 de abr. de 2025  0:02:38: 
+ hashmap.c | 12 ++++++++++--
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+Compilation failed
+In file included from test.c:4:0:
+hashmap.c: In function 'enlarge':
+hashmap.c:68:10: error: unused variable 'oldCapacity' [-Werror=unused-variable]
+     long oldCapacity=map->capacity;
+          ^~~~~~~~~~~
+cc1.exe: all warnings being treated as errors
+939823f
