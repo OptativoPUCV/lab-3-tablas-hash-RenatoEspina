@@ -68,7 +68,7 @@ void enlarge(HashMap * map) {
     long oldCapacity=map->capacity;
     map->capacity=map->capacity*2;
     map->buckets=(Pair**)calloc(map->capacity,sizeof(Pair*));
-    for(int i=0;i<map->capacity;i++){
+    for(int i=0;i<oldCapacity;i++){
         if(oldBuckets[i]!=NULL && oldBuckets[i]->key!=NULL){
             insertMap(map,oldBuckets[i]->key,oldBuckets[i]->value);
         }

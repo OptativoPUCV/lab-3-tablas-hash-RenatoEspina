@@ -86,3 +86,9 @@ hashmap.c:68:10: error: unused variable 'oldCapacity' [-Werror=unused-variable]
           ^~~~~~~~~~~
 cc1.exe: all warnings being treated as errors
 939823f
+lu., 21 de abr. de 2025  0:03:17: 
+ hashmap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  17|0
+total_score: 70/70
+fff25a4
