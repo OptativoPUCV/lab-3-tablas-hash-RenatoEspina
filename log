@@ -4,3 +4,9 @@ do., 20 de abr. de 2025 23:24:03:
  tests:  0|6
 total_score: 0/70
 eeef3b7
+do., 20 de abr. de 2025 23:24:47: 
+ hashmap.c | 1 -
+ 1 file changed, 1 deletion(-)
+ tests:  0|6
+total_score: 0/70
+9c5f086
