@@ -57,3 +57,9 @@ do., 20 de abr. de 2025 23:48:20:
  tests:  9|3
 total_score: 40/70
 5d8d73c
+do., 20 de abr. de 2025 23:52:29: 
+ hashmap.c | 16 ++++++++--------
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+ tests:  12|2
+total_score: 50/70
+b7899d5
