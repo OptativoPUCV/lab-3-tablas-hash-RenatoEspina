@@ -21,3 +21,9 @@ do., 20 de abr. de 2025 23:28:25:
  1 file changed, 1 deletion(-)
  tests:  0|0
 e8c36c0
+do., 20 de abr. de 2025 23:29:15: 
+ hashmap.c | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ tests:  1|5
+total_score: 10/70
+0b508fd
